@@ -1,0 +1,6 @@
+export const stripeKey = '';
+export const worldIndividual = '';
+export const worldGroup = '';
+export const worldBusiness = '';
+export const universeIndividual = '';
+export const universeGroup = '';
